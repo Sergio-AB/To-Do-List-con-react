@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sergio-AB/To-Do-List-con-react.git/static/css/main.a2c1778a.css",
+    "main.js": "/Sergio-AB/To-Do-List-con-react.git/static/js/main.9fd5b88e.js",
+    "static/js/787.58cb7339.chunk.js": "/Sergio-AB/To-Do-List-con-react.git/static/js/787.58cb7339.chunk.js",
+    "index.html": "/Sergio-AB/To-Do-List-con-react.git/index.html",
+    "main.a2c1778a.css.map": "/Sergio-AB/To-Do-List-con-react.git/static/css/main.a2c1778a.css.map",
+    "main.9fd5b88e.js.map": "/Sergio-AB/To-Do-List-con-react.git/static/js/main.9fd5b88e.js.map",
+    "787.58cb7339.chunk.js.map": "/Sergio-AB/To-Do-List-con-react.git/static/js/787.58cb7339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c1778a.css",
+    "static/js/main.9fd5b88e.js"
+  ]
+}
