@@ -1,15 +1,40 @@
 {
   "files": {
-    "main.css": "/Sergio-AB/To-Do-List-con-react.git/static/css/main.a2c1778a.css",
-    "main.js": "/Sergio-AB/To-Do-List-con-react.git/static/js/main.9fd5b88e.js",
-    "static/js/787.58cb7339.chunk.js": "/Sergio-AB/To-Do-List-con-react.git/static/js/787.58cb7339.chunk.js",
-    "index.html": "/Sergio-AB/To-Do-List-con-react.git/index.html",
-    "main.a2c1778a.css.map": "/Sergio-AB/To-Do-List-con-react.git/static/css/main.a2c1778a.css.map",
-    "main.9fd5b88e.js.map": "/Sergio-AB/To-Do-List-con-react.git/static/js/main.9fd5b88e.js.map",
-    "787.58cb7339.chunk.js.map": "/Sergio-AB/To-Do-List-con-react.git/static/js/787.58cb7339.chunk.js.map"
+    "main.css": "/Sergio-AB/Portfolio.git/static/css/main.0bc95a20.css",
+    "main.js": "/Sergio-AB/Portfolio.git/static/js/main.ddb4fd2c.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Sergio-AB/Portfolio.git/static/js/787.d4aba7ab.chunk.js",
+    "static/media/color-sharp.png": "/Sergio-AB/Portfolio.git/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/Sergio-AB/Portfolio.git/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/banner-bg.png": "/Sergio-AB/Portfolio.git/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/Sergio-AB/Portfolio.git/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/Sergio-AB/Portfolio.git/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Sergio-AB/Portfolio.git/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Sergio-AB/Portfolio.git/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/Sergio-AB/Portfolio.git/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/footer-bg.png": "/Sergio-AB/Portfolio.git/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img2.png": "/Sergio-AB/Portfolio.git/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/Sergio-AB/Portfolio.git/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/project-img4.png": "/Sergio-AB/Portfolio.git/static/media/project-img4.bd424318b23df2ca56f9.png",
+    "static/media/project-img5.png": "/Sergio-AB/Portfolio.git/static/media/project-img5.7a828426669f985c7df4.png",
+    "static/media/revicons.eot": "/Sergio-AB/Portfolio.git/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Sergio-AB/Portfolio.git/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Sergio-AB/Portfolio.git/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/Sergio-AB/Portfolio.git/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/Sergio-AB/Portfolio.git/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/Sergio-AB/Portfolio.git/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/logo.svg": "/Sergio-AB/Portfolio.git/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/nav-icon3.svg": "/Sergio-AB/Portfolio.git/static/media/nav-icon3.43e52f2dab9963ff8acee7c561ad99dc.svg",
+    "static/media/nav-icon2.svg": "/Sergio-AB/Portfolio.git/static/media/nav-icon2.67c82e025463609892144ad67954debc.svg",
+    "index.html": "/Sergio-AB/Portfolio.git/index.html",
+    "static/media/arrow2.svg": "/Sergio-AB/Portfolio.git/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/Sergio-AB/Portfolio.git/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/nav-icon1.svg": "/Sergio-AB/Portfolio.git/static/media/nav-icon1.971cf2fb82b01dba3b4b772cdf38bfd3.svg",
+    "main.0bc95a20.css.map": "/Sergio-AB/Portfolio.git/static/css/main.0bc95a20.css.map",
+    "main.ddb4fd2c.js.map": "/Sergio-AB/Portfolio.git/static/js/main.ddb4fd2c.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Sergio-AB/Portfolio.git/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2c1778a.css",
-    "static/js/main.9fd5b88e.js"
+    "static/css/main.0bc95a20.css",
+    "static/js/main.ddb4fd2c.js"
   ]
 }
